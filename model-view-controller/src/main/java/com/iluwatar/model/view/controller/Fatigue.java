@@ -33,8 +33,8 @@ public enum Fatigue {
 
   private String title;
 
-  Fatigue(String title) {
-    this.title = title;
+  Fatigue(String titlexx) {
+    this.title = titlexx;
   }
 
   @Override
